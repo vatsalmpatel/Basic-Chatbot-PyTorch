@@ -4,6 +4,8 @@ Here, I have built a basic chatbot 💻 for an e-commerce website that sells tea
 
 This is based on a simple feed-forward neural network trained on a small dataset. The data file is in json format so ,if you want to look at the data on which the chatbot has trained on refer to `data.json` file.
 
+You can even name you chatbot, I have named it Gru from Minions.
+
 # A brief introduction to all the files 🗃
 
 ⏩ `model.py` ➡ The feed-forward neural network to train the data and create the model for conversation.
