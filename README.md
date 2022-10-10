@@ -42,4 +42,8 @@ Just one last step, launch the chatbot application by ivoking the `chat.py` file
 python chat.py
 ```
 
+# Work Samples 🧪
+
+![Work Sample](images/sample_work.jpg)
+
 ### And there you have it ✅, you have successfully created a chatbot using nltk and PyTorch. ⚠ This is just avery basic chatbot, you can build upon this framework and create chatbots specific to your application and usecase. 🏁
